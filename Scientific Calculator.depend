@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537395768 source:e:\fci\year 1\second term\programming i\project\scientific calculator\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+
